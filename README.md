@@ -7,4 +7,4 @@ This project implements real-time American Sign Language (ASL) hand sign detecti
 - CNN-based model trained on ASL dataset.
 - Pre-trained model (`asl.h5`) included for quick setup.
 - Supports multiple hand gestures.
-- User-friendly interface for real-time prediction.
+
